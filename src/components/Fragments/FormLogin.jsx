@@ -9,6 +9,7 @@ const FormLogin = ()=>{
           type="email"
           placeholder="Masukkan Email"
           name="email"
+          
         />
         <InputForm
           label="Password"

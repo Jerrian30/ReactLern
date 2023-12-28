@@ -9,6 +9,7 @@ const FormReg = ()=>{
           type="text"
           placeholder="Insert Fullname"
           name="fullname"
+          
         />
 
         <InputForm
